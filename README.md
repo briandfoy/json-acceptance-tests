@@ -21,7 +21,7 @@ haven't looked at it yet.
 
 ## License
 
-You can use my work under the Artistic License 2.0.
+You can use my work under the [Artistic License 2.0](LICENSE).
 
 These files came to me with no note of a license, but the
 [JSON Checker code](http://www.json.org/JSON_checker/). I don't think
