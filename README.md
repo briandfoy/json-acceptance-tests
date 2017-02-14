@@ -11,3 +11,7 @@ haven't looked at it yet.
 * fail26.json looks like it should have literal tabs (escaped), but the file has spaces.
 * fail18.json checks for depth, but there's no requirement that something fail for that. Some parsers do limit that, but it's not a JSON spec
 
+## Some links
+
+* [RFC 7159](https://tools.ietf.org/html/rfc7159) - The JavaScript Object Notation (JSON) Data Interchange Format
+* [JSON.org](https://json.org)
