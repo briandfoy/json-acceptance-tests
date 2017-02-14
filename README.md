@@ -5,3 +5,9 @@ I used the files anyway. However, some of them have problems.
 
 I also found [https://code.google.com/archive/p/json-test-suite/downloads] but
 haven't looked at it yet.
+
+## Issues with the tests
+
+* fail26.json looks like it should have literal tabs (escaped), but the file has spaces.
+* fail18.json checks for depth, but there's no requirement that something fail for that. Some parsers do limit that, but it's not a JSON spec
+
