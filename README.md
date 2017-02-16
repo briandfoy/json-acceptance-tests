@@ -10,6 +10,7 @@ haven't looked at it yet.
 
 ## Issues with the tests
 
+* fail1.json says a string can't be a top level value, but RFC 7159 says otherwise
 * fail26.json looks like it should have literal tabs (escaped), but the file has spaces.
 * fail18.json checks for depth, but there's no requirement that something fail for that. Some parsers do limit that, but it's not a JSON spec
 
